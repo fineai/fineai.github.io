@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   latest and greated in fascinating field of Artifical Intellegence.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://fineai.com" # the base hostname & protocol for your site
-twitter_username: fineai
+twitter_username: FineAIHQ
 github_username:  fineai
 
 # Build settings
