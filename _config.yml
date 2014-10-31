@@ -1,0 +1,13 @@
+# Site settings
+title: FineAI
+email: fineai [at] fafadiatech [dot] com
+description: > # this means to ignore newlines until "baseurl:"
+  Drones, Machine Learning Singularity. FineAI is blog focused on 
+  latest and greated in fascinating field of Artifical Intellegence.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://fineai.com" # the base hostname & protocol for your site
+twitter_username: fineai
+github_username:  fineai
+
+# Build settings
+markdown: kramdown
