@@ -17,10 +17,10 @@ Following are some areas where Drone are making a difference today
 
 	Companies that are engaged in this sector include [Precision Hawk](http://precisionhawk.com/index.html), [Aeryon](http://www.aeryon.com/) , [MosaicMill](http://mosaicmill.com/index.html) and [Precision Drone](http://mosaicmill.com/index.html)
 
-2. **Disaster Response**
+2. **Disaster Response:** Insurance companies are trying to [pursuade regulators](http://www.foxbusiness.com/markets/2014/10/25/state-farm-seeks-approval-to-test-drones-in-evaluating-property-damage-disaster/) for use of drones to assess damage during disasters. Power of drone for relief has been witnessed: be it [Haiyan relief efforts](http://nethope.org/blog/2013/12/civil-drone-helps-nethope-haiyan-relief-efforts-in-the-philippines/) or [Firefighting in California](http://www.thedailybeast.com/articles/2014/07/09/fighting-wildfire-with-satellites-lasers-and-drones.html)
 
-3. **Health Care**
+3. **Health Care:** Variety of factores are speeding up adoption of drones in Heath care. This ranges from [delivery of drugs to patients](http://www.hospitalimpact.org/index.php/2013/12/10/a_role_for_drones_in_healthcare) to reduce human errors. [Remote drug delivery](http://www.nextservices.com/remote-healthcare-delivery-from-data-to-drones/) or even [Drone Ambulance](http://rt.com/news/200675-drone-ambulance-saves-lives/) are some of the possilbities that have emerged -- scratching surface so to speak.
 
-4. **Hollywood**
+4. **Hollywood:** Hollywod has always been pushing our imaginzation on what possible with technology. [Lights, Camera, Drone](http://www.npr.org/blogs/thetwo-way/2014/09/26/351731611/lights-camera-drones-hollywoods-lens-gets-a-little-larger) is a great article that touches on this topic. BTW [FAA has expemted Hollywood](http://www.latimes.com/entertainment/envelope/cotown/la-et-ct-hollywood-drones-20140925-story.html) from no drone flyzone
 
-5. **Environment**
+5. **Environment:** 
