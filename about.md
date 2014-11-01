@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+FineAI is brainchild of Sidharth Shah. Sidharth lives in Mumbai with his wife and adorable daughter. Inspiration for FineAI came from Sidharth's itch to keep in touch with field and expand his own knowledge in Artificial Intellegence. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+![Sidharth's Closeup]({{ site.url }}/assets/about/closeup.jpg)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Sidharth has founded [Fafadia Tech](http://www.fafadiatech.com/) since 2009. Sidharth holds MS in Computer Science from [USC](http://www.fafadiatech.com/) during his degree he was fortunate to work with [USC's ISI Group](http://www.isi.edu/home). You can checkout Sidharth's [LinkedIn Profile](http://in.linkedin.com/pub/sidharth-shah/4/803/123)
