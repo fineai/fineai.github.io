@@ -14,7 +14,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-				<center><img src="{{ post.cover_image }}" /></center>
+				<center><img src="{{ post.cover_image | prepend: site.baseurl }}" /></center>
         <article class="post-content">
     			{{ post.excerpt }}&nbsp;<a href="{{ post.url | prepend: site.baseurl }}">[READ MORE]
   			</article></a>

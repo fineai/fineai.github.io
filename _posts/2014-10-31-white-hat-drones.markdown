@@ -2,7 +2,7 @@
 layout: post
 title:  "White Hat Drones: Can drones be used for constructive purposes?"
 author: Sidharth Shah
-cover_image: "{{ site.url }}/assets/drones/white-hat-drones/cover-drones-that-help.png"
+cover_image: "assets/drones/white-hat-drones/cover-drones-that-help.png"
 date:   2014-10-31 15:05:07
 categories: drones
 comments: true
@@ -15,7 +15,7 @@ Following are some areas where Drone are making a difference today
 
 1. **Agriculture:** [Precision farming](http://www.businessinsider.com/drones-will-revolutionize-farming-2014-9?IR=T) is a growing trend in agriculture. Drones are making farmers lives a lot easier by letting them automate mundane task from [Inspecting Crops](https://www.youtube.com/watch?v=5yB8DN2MReg&noredirect=1), [Watering Crops](http://blogs.kqed.org/science/audio/drones-the-newest-water-saving-tool-for-parched-farms/) and even [Increasing Yield](http://www.technologyreview.com/featuredstory/526491/agricultural-drones/)
 
-	Companies that are engaged in this sector include [Precision Hawk](http://precisionhawk.com/index.html), [Aeryon](http://www.aeryon.com/) ,[MosaicMill](http://mosaicmill.com/index.html) and [Precision Drone](http://mosaicmill.com/index.html)
+	Companies that are engaged in this sector include [Precision Hawk](http://precisionhawk.com/index.html), [Aeryon](http://www.aeryon.com/) , [MosaicMill](http://mosaicmill.com/index.html) and [Precision Drone](http://mosaicmill.com/index.html)
 
 2. **Disaster Response**
 
