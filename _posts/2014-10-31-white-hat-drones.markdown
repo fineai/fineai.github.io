@@ -23,4 +23,6 @@ Following are some areas where Drone are making a difference today
 
 4. **Hollywood:** Hollywod has always been pushing our imaginzation on what possible with technology. [Lights, Camera, Drone](http://www.npr.org/blogs/thetwo-way/2014/09/26/351731611/lights-camera-drones-hollywoods-lens-gets-a-little-larger) is a great article that touches on this topic. BTW [FAA has expemted Hollywood](http://www.latimes.com/entertainment/envelope/cotown/la-et-ct-hollywood-drones-20140925-story.html) from no drone flyzone
 
-5. **Environment:** 
+5. **Environment:** Biologist have used [drones for conservation efforts](http://www.audubonmagazine.org/articles/conservation/drones-take-wildlife-conservation-tool) and [Whalt Watching](http://www.thedailybeast.com/articles/2014/08/25/soon-we-ll-be-watching-whales-by-drone.html). There are some [hinderances](http://www.theguardian.com/world/2014/may/07/drones-striking-a-high-tech-blow-for-conservation-and-the-environment) along the way but we think its more of a temporary setback 
+
+In conclusion this is just the begining of fusion and chain of events that are to come. Man and technology have historically always had love and hate relationships. What are social implications & ethical implications? Well time will tell. At the end of day there is always a human controller at end of a machine. So its us not them! Have we missed anything on the list, have complementary opinons? Let us know in comments 
