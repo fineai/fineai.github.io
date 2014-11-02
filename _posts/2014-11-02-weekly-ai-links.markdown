@@ -2,7 +2,7 @@
 layout: post
 title:  "Weekly AI Links: Part 1"
 author: Sidharth Shah
-date:   2014-11-01 15:05:07
+date:   2014-11-02 15:05:07
 categories: links ai weeklyailinks
 comments: true
 ---
