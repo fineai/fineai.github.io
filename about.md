@@ -23,5 +23,5 @@ Jimit is responsible for all artwork, graphics and everything creative at FineAI
 ![Jimit Shah Pondering]({{ site.url }}/assets/about/jimit-shah-pondering.jpg)
 ![Jimit Shah the Foodie]({{ site.url }}/assets/about/jimit-shah-foodie.jpeg)
 
-Always looking for a chance to meet people with different thoughts and fields as he believes listening from the horses mouth is the best knowledge to gain. He thinks creatively. He loves to hang around with friends and dance is his hobby. Currently working with Mr. Sidharth Shah in Fafadia Tech. He is always interested in exploring new areas to work.
+Always looking for a chance to meet people with different thoughts and fields as he believes listening from the horses mouth is the best knowledge to gain. He thinks creatively. He loves to hang around with friends and dance is his hobby. Currently working with Sidharth at Fafadia Tech. He is always interested in exploring new areas to work.
 
