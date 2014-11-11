@@ -67,7 +67,7 @@ We took various vitals and came up with Happiness meter: 3 stage measurement (Al
 
 **SM:** We’re working on a new pocket sized product [AMI VitalsFit](http://www.amibolt.com/vitalsfit/): that measures Glucometer, Blood Pressure, Oxygen Saturation, ECG, Pedometer and Urinary analysis which comes with rechargeable battery. 
 
-Our objective is to have cronic-free India. 
+Our objective is to have chronic-free India. 
 
 **FA:** What would be an interesting problem that you’d want to be solved by 2019 (for people working in similar domain) ?
 
