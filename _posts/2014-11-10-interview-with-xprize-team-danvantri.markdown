@@ -55,7 +55,7 @@ We took various vitals and came up with Happiness meter: 3 stage measurement (Al
 
 **FA:** Given current state of law in India, were there any issues in procuring components or testing it on fields etc? 
 
-**SM:** All our devices and offerings are non-invasive in nature. Having spoken at couple of trade shows where representatives of Medical Council of India were present - safety was key issue. Even Though India doesn’t have tougher laws compared to western counterparts we went ahead and got our device CE certified for European Union. We’re also in process of getting FDA certification. We wanted to ensure clinical superiority on consumer grade products as well.  Windwall of this activity allowed us to bag couple of orders from US based hospitals. 
+**SM:** All our devices and offerings are non-invasive in nature. Having spoken at couple of trade shows where representatives of Medical Council of India were present - safety was key issue. Even Though India doesn’t have tougher laws compared to western counterparts we went ahead and got our device CE certified for European Union. We’re also in process of getting FDA certification. We wanted to ensure clinical superiority on consumer grade products as well.
 
 **FA:** High mortality rates in India is a big issues. Do you plan on creating similar device for Infants? 
 
