@@ -7,7 +7,7 @@ categories: links ai weeklyailinks
 comments: true
 ---
 
-This week we will be covering Tiny Robots, Smart Cities, Bionic Hands and Algorithms that generate story. Cool 
+This week we will be covering Tiny Robots, Smart Cities, Bionic Hands and Algorithms that generate story.
 
 1. [**The world’s most advanced bionic hand via Science Daily**](http://www.sciencedaily.com/releases/2014/11/141106082624.htm)
 

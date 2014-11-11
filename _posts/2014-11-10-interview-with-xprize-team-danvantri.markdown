@@ -7,9 +7,10 @@ date:   2014-11-11 15:05:07
 categories: tricoder xprize
 comments: true
 ---
-![Sridharan Mani's Closeup]({{ site.url }}/assets/xprize-ami/sridharan-mani-closeup.jpg)
 
 [Sridharan Mani](https://in.linkedin.com/in/sridharanmani), a native of Chennai doesn’t shy away from sharing geeky jokes. He has completed Bachelors degree in Physics worked with NIIT, Mahindra BT spent 10-12 years of his life in Atlanta, USA. Sridharan is passionate about reading spiritual books, writing poems in tamil while travelling round the globe. Team Davantri have made it to the top 10 amongst 300 participants in [Qualcomm XPrize Medical Tricoder Challenge](http://tricorder.xprize.org/). Sridharan is Director & CEO at [American Megatrends India (P) Ltd.](http://www.amiindia.co.in/)
+
+![Sridharan Mani's Closeup]({{ site.url }}/assets/xprize-ami/sridharan-mani-closeup.jpg)
 
 **FA:** Firstly we’d like to thank you for taking your time and speaking to us. We really appreciate it. 
 
