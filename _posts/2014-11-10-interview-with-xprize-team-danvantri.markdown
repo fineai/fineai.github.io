@@ -8,7 +8,7 @@ categories: tricoder xprize
 comments: true
 ---
 
-[Sridharan Mani](https://in.linkedin.com/in/sridharanmani), a native of Chennai doesn’t shy away from sharing geeky jokes. He has completed Bachelors degree in Physics worked with NIIT, Mahindra BT spent 10-12 years of his life in Atlanta, USA. Sridharan is passionate about reading spiritual books, writing poems in tamil while travelling round the globe. Team Davantri have made it to the top 10 amongst 300 participants in [Qualcomm XPrize Medical Tricoder Challenge](http://tricorder.xprize.org/). Sridharan is Director & CEO at [American Megatrends India (P) Ltd.](http://www.amiindia.co.in/)
+[Sridharan Mani](https://in.linkedin.com/in/sridharanmani), a native of Chennai doesn’t shy away from sharing geeky jokes. He has completed Bachelors degree in Physics worked with NIIT, Mahindra BT spent 10-12 years of his life in Atlanta, USA. Sridharan is passionate about reading spiritual books, writing poems in tamil while travelling round the globe. Team Danvantri have made it to the top 10 amongst 300 participants in [Qualcomm XPrize Medical Tricoder Challenge](http://tricorder.xprize.org/). Sridharan is Director & CEO at [American Megatrends India (P) Ltd.](http://www.amiindia.co.in/)
 
 ![Sridharan Mani's Closeup]({{ site.url }}/assets/xprize-ami/sridharan-mani-closeup.jpg)
 
@@ -29,23 +29,23 @@ comments: true
 
 I am a big fan of Prevention over Cure. Because cure is expensive, and doesn’t give you full life -- it takes a part of your life. Initially a lot of people focused on Telehealth care but it takes lot of resources and better connectivity. Requirement of the day is getting vitals as opposed to being able to teleconference with doctors, which is required but not sufficient.
 
-As a Patient you might miss certain symptoms, at the same time you might exaggerate something. Body vitals give a true picture for diagnosis. We went to market and looked at existing devices that could be integrated with Mobile which will eventually be shared with doctors. We soon concluded that none of the devices could be integrated with ease. Accuracy and cost were some other factors that discourages us during this evaluation process. On one hand clinical grade devices had accuracy that was desired, consumer grade products lacked on accuracy. Power was another critical factor for our evaluation -- half of the rural India doesn’t have AC power connectivity. 
+As a Patient you might miss certain symptoms, at the same time you might exaggerate something. Body vitals give a true picture for diagnosis. We went to the market and looked at existing devices that could be integrated with Mobile which will eventually be shared with doctors. We soon concluded that none of the devices could be integrated with ease. Accuracy and cost were some other factors that discourages us during this evaluation process. On one hand clinical grade devices had accuracy that was desired, consumer grade products lacked on accuracy. Power was another critical factor for our evaluation -- half of the rural India doesn’t have AC power connectivity. 
 
 Given our finding bundled with the fact that American Mega trend’s background in hardware and software we decided to venture on this journey in 2012. We discovered about X Prize via LinkedIn, team quickly had an agreement to join the competition. Competition was never the only driving factor for us, having an opportunity to make a difference in country of more than one billion people also motivated us.
 
 ![Early Prototypes of Device]({{ site.url }}/assets/xprize-ami/prototype-collection.jpg)
 
-**FA:** During the course of competition, what did Team Dhanvantri learn from XPrize’s point of view? 
+**FA:** During the course of competition, what did Team Danvantri learn from XPrize’s point of view? 
 
 **SM:** We learned that whole healthcare eco-system needed change. Building a device that would help capturing body vitals is less than 1% of what needs to be changed. Our entire focus was providing complete eco-system by knowing current state of health and taking corrective actions -- including diet, meditation and exercise. Users generally don’t understand and interpret vitals like doctors do. Summarizing health from vitals thats easier to understand also became a key thing for the project. 
 
-We’re aiming to take clinical level devices and trying to put it into consumers hand at consumer at affordable price.
+We’re aiming to take clinical level devices and trying to put it into consumers hand at affordable price.
 
 **FA:** Along the way were there any surprises? 
 
 **SM:** During our journey we came across a university publication in similar domain. We tried to replicate  the device, initially we thought we would be done within a weeks time. To our dismay we didn’t get it to work with much accuracy. When we contacted the author of the publication about the issue, surprisingly we got asked “Did it really work?” 
 
-We conclude, its going to be a longer journey. A weeks worth of effort actually took us through journey of couple of years of research and development. 
+We concluded, its going to be a longer journey. A weeks worth of effort actually took us through journey of couple of years of research and development. 
 
 **FA:** Any interesting anecdote you’d want to share from product development phase? 
 
