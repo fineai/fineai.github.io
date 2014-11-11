@@ -49,7 +49,7 @@ We conclude, its going to be a longer journey. A weeks worth of effort actually 
 
 **FA:** Any interesting anecdote you’d want to share from product development phase? 
 
-**SM:** First version of product that we’ve released is called AMI BOLT, we hired independent marketing company that did usability testing on our behalf. What got to us as constant feedback was: Can the correlation of these numbers (vitals) give me more meaningful messages?  
+**SM:** First version of product that we’ve released is called [AMI BOLT](http://www.amibolt.com/), we hired independent marketing company that did usability testing on our behalf. What got to us as constant feedback was: Can the correlation of these numbers (vitals) give me more meaningful messages?  
 
 We took various vitals and came up with Happiness meter: 3 stage measurement (All is Well, Could Be Better, Needs Attention). Could be better implies some changes in lifestyle are required. Needs Attention suggests user to seek immediate medical attention.  
 
@@ -65,7 +65,7 @@ We took various vitals and came up with Happiness meter: 3 stage measurement (Al
 
 **FA:** Do you plan on reducing form factor for AMI BOLT? 
 
-**SM:** We’re working on a new pocket sized product AMI VitalsFit: that measures Glucometer, Blood Pressure, Oxygen Saturation, ECG, Pedometer and Urinary analysis which comes with rechargeable battery. 
+**SM:** We’re working on a new pocket sized product [AMI VitalsFit](http://www.amibolt.com/vitalsfit/): that measures Glucometer, Blood Pressure, Oxygen Saturation, ECG, Pedometer and Urinary analysis which comes with rechargeable battery. 
 
 Our objective is to have cronic-free India. 
 
