@@ -12,5 +12,7 @@ Wikipedia has a nice section on [Timeline of AI](http://en.wikipedia.org/wiki/Ti
 
 Smart Toys, Socialbe Machines, DARPA's Grand Challenge, Checkers getting solved by team of researches at University of Alberta etc. 
 
+![Progress in AI in last 13 years summarized in Infographic]({{ site.url }}/assets/ai-timeline-last-13-years/infographic-cover.png)
+
 You can download [Full Resolution Infographic]({{ site.url }}/assets/ai-timeline-last-13-years/infographic.png) -- Aproximately 5MB
 
