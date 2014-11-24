@@ -23,6 +23,6 @@ This week's theme is Q&A systems.
 
 4. [**PDF: Learning to Solve Arithmetic Word Problems with Verb Categorization**](http://www.allenai.org/Content/Publications/Arithmetic_Word_Problems.pdf)
 	
-	[Allen Institute for Artificial Intelligence](http://www.allenai.org/Default.aspx) is focusing on advancing AI systems -- sepcifically creating an AI program that can pass a high-scool tests including Biology and Maths. This paper describes in detail on what it take to solve math problems from natural language description.
+	[Allen Institute for Artificial Intelligence](http://www.allenai.org/Default.aspx) is focusing on advancing AI systems -- specifically creating an AI program that can pass a high-school tests including Biology and Math. This paper describes in detail on what it take to solve math problems from natural language description.
 
-	
+
