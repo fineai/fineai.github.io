@@ -24,3 +24,8 @@ Been a while since we've updated the blog. This week we're resuming our blogging
 4. [**Making AI Fun: When Good Enough is Good Enough**](http://gamedevelopment.tutsplus.com/articles/making-ai-fun-when-good-enough-is-good-enough--cms-23460)
 	
 	Good article talks about how to make AI programs more human. Walks through some retro stuff in order to gain answers to proposed questions.
+
+5. [**Wikipedia: List of Important publications in Computer Science (Aritificial Intelligence)**](http://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Artificial_intelligence)
+	
+	Great collection of AI papers. MUST READ.
+
